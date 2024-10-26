@@ -13,7 +13,7 @@ async function submit() {
 
 const record = {
   title: titleVal.value,
-  description: "desc",
+  description: "description",
 };
 
 await db.collection("posts").create(record);
