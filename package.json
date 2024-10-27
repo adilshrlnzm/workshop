@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lucide-vue-next": "^0.453.0",
     "pocketbase": "^0.21.5",
-    "vue": "^3.5.12"
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
